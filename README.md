@@ -1,2 +1,2 @@
-# MyProcect
+# MyProject
 Lumped_Electrochemical_Model
